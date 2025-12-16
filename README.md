@@ -1,3 +1,4 @@
+git status
 # Simple One-Variable Regression with PyTorch
 
 ## Overview
